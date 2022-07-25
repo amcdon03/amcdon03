@@ -1,6 +1,6 @@
 - 👋 Y'ello, I’m @amcdon03
 - 👀 I’m interested in IT security and DevSecOps
-- 🌱 I’m currently learning C++, and graph theory
+- 🌱 I’m currently learning Rust, and graph theory
 - 💞️ I’m looking to collaborate on nothing yet, but stayed tuned ...
 - 📫 How to reach me ... (incognito)
 
